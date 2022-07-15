@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on MERN Stack Development.
 - 🌱 Right now I had reached till Javascript Projects(using little bit of HTML5 & CSS). 
-- :book: And yet to learn about react followed by MongoDB and Expressjs and Nodejs
+- :book: And yet to learn about React followed by MongoDB and Expressjs and Nodejs
 
 
 ### Reach out to me:
