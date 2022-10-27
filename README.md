@@ -2,9 +2,9 @@
 
 ## I am 3rd year CSE student from Ahmedabad
 
-- 🔭 I’m currently working on MERN Stack Development.
-- 🌱 Right now I had reached till Javascript Projects(using little bit of HTML5 & CSS). 
-- :book: And yet to learn about React followed by MongoDB and Expressjs and Nodejs
+- 🔭 I’m currently Learning and Exploring DevOps.
+- 🌱 Following Michael Cade Github Repo.
+- 📖 Plus, Explored Frontend & Backend. And created Repositories for the same.
 
 
 ### Reach out to me:
